@@ -86,3 +86,17 @@ class Program
         list.PrintList();  // Output: 0 -> 1 -> 3 -> null
     }
 }
+
+// Homework for Session 2
+
+// Create your own LinkedList
+
+// Reverse a Singly Linked List
+// Example:
+// Input:  1 -> 2 -> 3 -> 4 -> null
+// Output: 4 -> 3 -> 2 -> 1 -> null
+
+// Detect a Cycle in a Linked List (Floyd’s Algorithm)
+// Example:
+// Input:  1 -> 2 -> 3 -> 4 -> 2 (Cycle exists)
+// Output: True
